@@ -42,7 +42,8 @@ speech-recognition-python/
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
-```bash
+bash
+
 git clone https://github.com/rushikeshghonse/Speech-Recognition-Using-Python.git
 cd Speech-Recognition-Using-Python
 
