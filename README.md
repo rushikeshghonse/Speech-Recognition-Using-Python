@@ -29,15 +29,16 @@ The project includes both **core speech recognition logic** and an **interactive
 
 ---
 
-## 📁 Project Structure
-speech-recognition-python/
-│
-├── app.py # Streamlit web application
-├── speech_utils.py # Speech recognition logic
-├── requirements.txt # Project dependencies
-├── README.md # Project documentation
-├── .gitignore # Ignored files and folders
-└── venv/ # Virtual environment (not pushed to GitHub)
+## 📁 Project Structure <br>
+speech-recognition-python/ <br>
+│  <br>
+├── app.py # Streamlit web application  <br>
+├── speech_utils.py # Speech recognition logic  <br>
+├── requirements.txt # Project dependencies  <br>
+├── README.md # Project documentation  <br>
+├── .gitignore # Ignored files and folders  <br>
+└── venv/ # Virtual environment (not pushed to GitHub)  <br>
+
 
 ## ⚙️ Setup Instructions
 
