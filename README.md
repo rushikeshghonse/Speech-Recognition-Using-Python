@@ -45,23 +45,23 @@ speech-recognition-python/ <br>
 ### 1️⃣ Clone the repository
 bash
 
-git clone https://github.com/rushikeshghonse/Speech-Recognition-Using-Python.git
-cd Speech-Recognition-Using-Python
+- git clone https://github.com/rushikeshghonse/Speech-Recognition-Using-Python.git
+- cd Speech-Recognition-Using-Python
 
 ### 2️⃣ Create and activate a virtual environment
-python -m venv venv
+- python -m venv venv
 
-#### Windows
-venv\Scripts\activate
+### Windows
+- venv\Scripts\activate
 
-#### macOS / Linux
-source venv/bin/activate
+### macOS / Linux
+- source venv/bin/activate
 
 ### 3️⃣ Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### ▶️ Run the Application
-streamlit run app.py
+- streamlit run app.py
 
 The application will open automatically in your browser at: http://localhost:8501
 Click “Start Listening”, speak into your microphone, and the recognized text will be displayed on the screen.
@@ -80,38 +80,38 @@ Streamlit provides a button-based web interface
 
 ## ⚠️ Requirements & Notes
 
-Active internet connection is required (Google Speech API)
+- Active internet connection is required (Google Speech API)
 
-Microphone access must be enabled
+- Microphone access must be enabled
 
-Best results in a quiet environment
+- Best results in a quiet environment
 
-Python 3.10+ recommended (Python 3.11 preferred)
+- Python 3.10+ recommended (Python 3.11 preferred)
 
 
 ## 🔮 Future Enhancements
 
-🔁 Voice command execution (open apps, browser, etc.)
+- 🔁 Voice command execution (open apps, browser, etc.)
 
-💾 Save recognized speech to a text file
+- 💾 Save recognized speech to a text file
 
-🌍 Multiple language support
+- 🌍 Multiple language support
 
-☁️ Cloud deployment (Streamlit Cloud / Hugging Face Spaces)
+- ☁️ Cloud deployment (Streamlit Cloud / Hugging Face Spaces)
 
-📴 Offline speech recognition support
+- 📴 Offline speech recognition support
 
 ## 💼 Resume Highlight
-Built a Speech Recognition Web Application using Python and Streamlit to convert real-time microphone input into text with background noise handling, timeout management, and robust exception handling.
+- Built a Speech Recognition Web Application using Python and Streamlit to convert real-time microphone input into text with background noise handling, timeout management, and robust exception handling.
 
 ## 📜 License
 
-This project is open-source and available under the MIT License.
+- This project is open-source and available under the MIT License.
 
 ## 🙌 Acknowledgements
 
-Python SpeechRecognition library
+- Python SpeechRecognition library
 
-Google Speech Recognition API
+- Google Speech Recognition API
 
-Streamlit community
+- Streamlit community
