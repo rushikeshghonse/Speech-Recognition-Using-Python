@@ -5,6 +5,7 @@ The project includes both **core speech recognition logic** and an **interactive
 
 ---
 
+
 ## 🚀 Features
 
 - 🎙️ Real-time speech input using microphone
@@ -15,6 +16,7 @@ The project includes both **core speech recognition logic** and an **interactive
 - ❌ Robust error handling for unclear speech and network issues
 - 🇮🇳 Optimized for Indian English (`en-IN`)
 - 🧩 Clean and modular project structure
+
 
 ---
 
